@@ -50,3 +50,7 @@ HTML with <go-import> and <go-source> tags will be written to $HOME/src/packag.g
 
 I wrote this tool to make managing vanity imports easier for myself and it's therefor opinionated and limited in someways.
 Contributions are welcome, but please open an issue before spending your time on code.
+
+## Attribution
+
+The HTML template was copied from [@natefinch](https://github.com/natefinch)'s [Vanity Imports with Hugo](https://npf.io/2016/10/vanity-imports-with-hugo/) post.
